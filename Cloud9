@@ -1,0 +1,1 @@
+If you modify a file, run git add, and modify that file again without staging it, git commit will only save the version from the time you ran git add. The actual file content snapshot belongs to the staging phase, while the project timeline snapshot belongs to the commit phase.
