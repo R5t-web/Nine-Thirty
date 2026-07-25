@@ -1,2 +1,3 @@
 # Nine-Thirty
-Learning
+we are Learning Linux, cloud and DevOps
+
